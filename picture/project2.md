@@ -45,7 +45,7 @@ This part will show the background of the whole work
 
 * <font color="blue">HK may produce more single-use plastic waste</font>
 
-  ![1](/home/fandelin/project2/原图/1.png)
+  ![1](https://github.com/fandepi/project2/tree/master/picture/1.png)
 
   This picture shows that more than 20% people like to eat takeaway, and the proportion of such people is increasing year by year. And it is known to public that eating takeaway will produce plenty of single-use plastic waste.
 
@@ -61,7 +61,7 @@ This part will show the background of the whole work
 
    * Original Picture
 
-     ![1](/home/fandelin/jupyter/project2/原图/3.png)
+     ![1](https://github.com/fandepi/project2/tree/master/picture/3.png)
 
    * Introduction
 
@@ -70,14 +70,14 @@ This part will show the background of the whole work
      
 
 4.  <center class = "half">
-<img src = “https://github.com/fandepi/project2/blob/master//1.png”  width = “50%” align = left><img src = “https://github.com/fandepi/project2/blob/master/%E5%8E%9F%E5%9B%BE/2.png”  width = “50%” align = right>
+<img src = “https://github.com/fandepi/project2/tree/master/picture/1.png”  width = “50%” align = left><img src = “https://github.com/fandepi/project2/tree/master/picture/2.png”  width = “50%” align = right>
    </center>
 
 3. <font color="orange"> HK MSW Reduction</font>
 
    * Original Picture
 
-     ![1](/home/fandelin/jupyter/project2/原图/4.png)
+     ![1](https://github.com/fandepi/project2/tree/master/picture/4.png)
 
    * Introduction
 
