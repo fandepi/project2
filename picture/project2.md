@@ -37,7 +37,17 @@ id 4:
 
 ---
 
-This part will show the background of the whole work. 
+This part will show the background of the whole work
+
+* <font color="blue">Plastic back to human</font>
+
+  Plastic takes 10 to 1,000 years to decompose into microplastics, which flow through groundwater into the sea. They return via the marine food chain to people. So reducing plastic waste is urgent. And the WWF urged the government to set a phaseout of all single-use plastic cultery by 2022.
+
+* <font color="blue">HK may produce more single-use plastic waste</font>
+
+  ![1](/home/fandelin/project2/原图/1.png)
+
+  This picture shows that more than 20% people like to eat takeaway, and the proportion of such people is increasing year by year. And it is known to public that eating takeaway will produce plenty of single-use plastic waste.
 
 ---
 
@@ -46,40 +56,6 @@ This part will show the background of the whole work.
 ## 3. ```Event```
 
 ---
-
-
-
-1.  <font color="red"> Dining in Hong Kong and Singapore</font>
-
-   * Original Picture
-
-     ![1](/home/fandelin/jupyter/project2/原图/1.png)
-
-   * Introduction
-
-     This picture shows that more and more people like to eat out or point takeaway with different platforms. And the plastic waste can avoid to become more and more.
-
-   * Ideas to improve
-
-     This picture deals with the y axis data badly. And it will be better if we separate it into four small pictures. 
-
-     
-
-2.  <font color="Green"> Composition of MSW in HK 2018</font>
-
-   * Original Picture
-
-     ![1](/home/fandelin/jupyter/project2/原图/2.png)
-
-   * Introduction
-
-     This picture shows the dispose of waste in HK 2018. And it is obvious that plastic waste has taken place of 21%, which means the plastic that created by platforms also takes a big place. 
-
-   * Ideas to improve
-
-     This picture do not directly shows the disposition the plastic that created by platform.
-
-     
 
 3.  <font color="Blue"> Plastic Waste at Landfills in HK</font>
 
@@ -93,7 +69,11 @@ This part will show the background of the whole work.
 
      
 
-4.  <font color="orange"> HK MSW Reduction</font>
+4.  <center class = "half">
+<img src = “https://github.com/fandepi/project2/blob/master//1.png”  width = “50%” align = left><img src = “https://github.com/fandepi/project2/blob/master/%E5%8E%9F%E5%9B%BE/2.png”  width = “50%” align = right>
+   </center>
+
+3. <font color="orange"> HK MSW Reduction</font>
 
    * Original Picture
 
@@ -110,6 +90,8 @@ This part will show the background of the whole work.
 ## 4. ```Reveal```
 
 ---
+
+
 
 
 
