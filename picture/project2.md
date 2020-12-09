@@ -45,7 +45,7 @@ This part will show the background of the whole work
 
 * <font color="blue">HK may produce more single-use plastic waste</font>
 
-  ![1](https://github.com/fandepi/project2/tree/master/picture/1.png)
+  ![1](https://raw.githubusercontent.com/fandepi/project2/master/picture/1.png)
 
   This picture shows that more than 20% people like to eat takeaway, and the proportion of such people is increasing year by year. And it is known to public that eating takeaway will produce plenty of single-use plastic waste.
 
@@ -57,31 +57,25 @@ This part will show the background of the whole work
 
 ---
 
-3.  <font color="Blue"> Plastic Waste at Landfills in HK</font>
+1. <font color="Blue">  Plastic Waste at Landfills in HK</font>
 
-   * Original Picture
-
-     ![1](https://github.com/fandepi/project2/tree/master/picture/3.png)
-
-   * Introduction
-
-   * Ideas to improve
-
-     
-
-4.  <center class = "half">
-<img src = “https://github.com/fandepi/project2/tree/master/picture/1.png”  width = “50%” align = left><img src = “https://github.com/fandepi/project2/tree/master/picture/2.png”  width = “50%” align = right>
+   <center class="half">
+       ...
+   	<img src="https://raw.githubusercontent.com/fandepi/project2/master/picture/4.png" height="350" width="450">
+       ...
+   	<img src="https://raw.githubusercontent.com/fandepi/project2/master/picture/4.png" height="350" width="450">
    </center>
 
-3. <font color="orange"> HK MSW Reduction</font>
+   
 
-   * Original Picture
+2.  <font color="orange"> HK MSW Reduction</font>
 
-     ![1](https://github.com/fandepi/project2/tree/master/picture/4.png)
-
-   * Introduction
-
-   * Ideas to improve
+   <center class="half">
+       ...
+   	<img src="https://raw.githubusercontent.com/fandepi/project2/master/picture/3.png" height="350" width="450">
+       ...
+   	<img src="https://raw.githubusercontent.com/fandepi/project2/master/picture/3.png" height="350" width="450">
+   </center>
 
 ---
 
