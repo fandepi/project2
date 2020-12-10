@@ -168,9 +168,11 @@ This part will show the background of the whole work
 
 * Graphical Integrity
 
-  A good graph should not use multiple dimension, and not imply unintended text. Also label is important.
+  A good graph should not use multiple dimension, and not imply unintended text. Also label is important. The first graph has two many dimensions, the second one should give some number.
 
 * Graphical Excellence
+
+  When we make a graph, how to make it easy for people to understand is important. The second do not show enough contrast, and the first graph is not kind to humans' working memory. 
 
 
 
