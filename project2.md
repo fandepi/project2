@@ -1,4 +1,4 @@
-<div align='center' ><font size='70'>Project 2</font></div>
+<div align='center' ><font size='70'>Do we eat a VISA card a week?</font></div>
 
 ---
 
@@ -16,7 +16,7 @@ Id 4:  320180940581 Yuhao Zhang
 
 ##  Abstract
 
-​    ***Our project finish the work that <font  size=4, color="blue"> fixing the problems of three graphs in an article to make them show their intention better</font>***.
+​    ***According to WWF, our discarded plastic waste is re entering the human body in the form of decomposed microplastics. With the development of takeout industry, more and more disposable tableware are used, of which as high as 88% are plastic tableware. This article analyzes the charts based on data from the environmental protection department of the Hong Kong government, China. Under the guidance of some visualization principles, we have completed the improvement of chart visualization effect. It is hoped that the promotion process can promote the communication and learning of information visualization, and call for reducing the use of disposable tableware.***.
 
 ---
 
@@ -82,7 +82,7 @@ The three images show that in Hong Kong, China, more people are opting for take-
 
 1. <font color="green">Plastic Waste Comes More</font>
 
-   <img src="./picture/1.1.png" height="350" width="550"><font color="blue">Realized</font>
+   <img src="./picture/1.1.png" height="350" width="550">
 
    (The above picture is what we replicated and blow one is what we improved.) 
 
@@ -93,11 +93,9 @@ The three images show that in Hong Kong, China, more people are opting for take-
    We ultimately made the following improvements:
 
    * A small multiples containing four subgraphs are used.
-   * Adjust the range of the Y-axis to make the change in the data more obvious.
-      	<img src="./picture/1.2.png" height="350" width="1200">
-
-   	<font color="red">Improved</font>
-
+   * Considering a ‘lumpy profile’ is created by setting the limits on the plot as close as possible to the magnitude of the dataset range, and improves visualization of variability and eliminates white or wasted space (Robbins, 2005 [pp. 239–241; 285]; Tufte, 2006 [p. 60]; Strange, 2007 [p. 89]). We adjust the range of the Y-axis to make the change in the data more obvious.
+      	
+   <img src="./picture/1.2.png" height="350" width="1200">
    
 
 2. <font color="Blue">  Plastic Waste at Landfills in HK</font>
@@ -108,8 +106,6 @@ The three images show that in Hong Kong, China, more people are opting for take-
    	<img src="./picture/2.2.png" height="350" width="450">
    </center>
 
-   ​                                                              <font color="blue">Realized</font>                                                                                                     <font color="red">Improved</font>
-
    (The left picture is what we replicated and right one is what we improved.) 
 
 *  Good Point: Absolute magnitudes are important for bar plot and the baseline of this picture starts from 0 fitting this rule.
@@ -118,13 +114,9 @@ The three images show that in Hong Kong, China, more people are opting for take-
 
 * Improvements: We can use line plot, or use lumpy profile. Also add the max number on the top of the bar may be another good idea.
 
-
 We ultimately made the following improvements:
 
-
-
-* We use line plot to present the trend of quantity of plastic dishware waste .
-
+* Since focus on visualizing patterns or on visualizing details, depending on the purpose of the plot (Few, 2004a; Kosslyn and Chabris, 1992), we use line plot to present the trend of quantity of plastic dishware waste.
 
 * Show the trend by marking the maximum value.
 
@@ -138,7 +130,6 @@ We ultimately made the following improvements:
    	<img src="./picture/3.2.png" height="350" width="500">
    </center>
 
-   ​                                                       <font color="blue">Realized</font>                                                                                                                          <font color="red"> Improved</font>
 
    (The left picture is what we replicated and right one is what we improved.) 
 
@@ -168,16 +159,27 @@ For future work, we will keep using visualization and relevant methods (use our 
 
 ---
 
-We have make change selected graphs to let them show better for their original meaning that the author what to express. But we do not think those pictures can greatly explain why limiting single-use plastic waste use in eating takeaway is urgent for HK, this is because those data do not show damage plastic waste has caused to HK's environment, and we want to realize it with more data. We believe that this is the most direct way to show thrust.
+After the completion of this visualization task, we summarize the general idea of improving the visualization effect according to the content we have learned. In order to improve the visualization, we thought about the following aspects:
 
 * **Graphical Type**
 
-  A good type of graph can help people understand more about the idea that one wants to express. For example,  the area plot is more suitable for third picture
+  For different visualization problems, we should choose the type of graph that is most appropriate. This will greatly affect the delivery of information. For example, in order to improve the third diagram in this article, area plot could be selected to better highlight the variation of space between two lines.
 
 * **Graphical Integrity**
 
-  A good graph should not use multiple dimension, and not imply unintended text. Also label is important. The first graph has two many dimensions, the second one should give some number.
+  There should be no misunderstanding when visualizing data. This means that the chart should faithfully reflect the original relationship of the data. For example, in the second chart of this article, the baseline of the bar chart starts at 0, which accurately reflects the scale gap of the values.
 
 * **Graphical Excellence**
 
-  When we make a graph, how to make it easy for people to understand is important. The second do not show enough contrast, and the first graph is not kind to humans' working memory. 
+  Readability is a golden rule when we make graphs. If too many dimensions of data are added to a graph, it can easily overwhelm the working memory of a person and affect the reception of information. For example, in the first figure of this paper, it is more intuitive to compare the two dimensions of user penetration, the region and the way of eating, rather than decompose them into sub-figures for comparison.
+
+### ```Reference```
+
+Source of chart: "Take plastic out of food delivery" By Shadow Li (Published March 30, 2020) http://cdhkdata.chinadailyhk.com/takeoutwaste
+
+Statement reference:  <br>
+"Ten guidelines for effective data visualization in scientific publications" By Christa Kelleher, ThorstenWagener https://www.sciencedirect.com/science/article/pii/S1364815210003270?via%3Dihub#bib6
+
+"11 Design Tips for Data Visualization" By Charlie Custer https://www.dataquest.io/blog/design-tips-for-data-viz/
+
+"Data Visualization Principles: Lessons from Tufte" By Mike Pantoliano https://moz.com/blog/data-visualization-principles-lessons-from-tufte
