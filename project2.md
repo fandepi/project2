@@ -38,7 +38,7 @@ WWF research shows the average person consumes 2,000 tiny pieces of plastic a we
 
 So how does this happen?
 
-1. **<font color="red">Outline Of Article</font>**
+1. **<font color="red">Background of Chart</font>**
 
     * **<font color="blue">Plastic will finally back to human</font>**
 
@@ -155,9 +155,9 @@ So how does this happen?
 ## 4. ```Future Work```
 
 ---
-After finishing our visualization and analyzing, we recognize that the situation is not optimistic. When we searched the data from the offical website, the latest data was gathered in 2018. It illustrates that the Hong Kong government doesn't make this project go ahead successfully. Or the work is so hard for each person to do. The principle of reducing plastic tableware needs everyone in this society to obey. For the future, we call for the government to make policy and law to limit the using of plastic contaminant, especially tableware. More importantly, the public need to have responsibility and awareness to reduce the use of plastic tableware in order to contribute to environment protection.
+After finishing our visualization and analyzing, we recognize that the situation is not optimistic. When we searched the data from the offical website, the latest data was gathered in 2018. It illustrates that the Hong Kong government doesn't make this project go ahead successfully. Or the work is so hard for each person to do. The principle of reducing plastic tableware needs everyone in this society to obey. For the future, ***we will call for the government to make policy and law to limit the using of plastic contaminant, especially tableware***. More importantly, ***the public need to have responsibility and awareness to reduce the use of plastic tableware in order to contribute to environment protection***.
 
-For future work, we will keep using visualization and relevant methods (use our knowledge and technic) to improve residents' awareness of protecting our environment. Except plastic tableware, we will analyse much more other fields of environment protection for instance water cycling and industrial waste gas. When we draw enough pictures, we are willing to contact with local council and exhibit these images even animation to civilian by helps from administration.
+Also, we will ***keep using visualization and relevant methods (use our knowledge and technic) to improve residents' awareness of protecting our environment***. Except plastic tableware, we will analyse much more other fields of environment protection for instance water cycling and industrial waste gas. When we draw enough pictures, we are willing to contact with local council and exhibit these images even animation to civilian by helps from administration.
 
 
 ## 5. ```Conclusion```
@@ -168,15 +168,15 @@ After the completion of this visualization task, we summarize the general idea o
 
 * **Graphical Type**
 
-  For different visualization problems, we should choose the type of graph that is most appropriate. This will greatly affect the delivery of information. For example, in order to improve the third diagram in this article, area plot could be selected to better highlight the variation of space between two lines.
+  For different visualization problems, we should ***choose the type of graph that is most appropriate***. This will greatly affect the delivery of information. For example, in order to improve the third diagram in this article, area plot could be selected to better highlight the variation of space between two lines.
 
 * **Graphical Integrity**
 
-  There should be no misunderstanding when visualizing data. This means that the chart should faithfully reflect the original relationship of the data. For example, in the second chart of this article, the baseline of the bar chart starts at 0, which accurately reflects the scale gap of the values.
+  ***There should be no misunderstanding when visualizing data***. This means that the chart should faithfully reflect the original relationship of the data. For example, in the second chart of this article, the baseline of the bar chart starts at 0, which accurately reflects the scale gap of the values.
 
 * **Graphical Excellence**
 
-  Readability is a golden rule when we make graphs. If too many dimensions of data are added to a graph, it can easily overwhelm the working memory of a person and affect the reception of information. For example, in the first figure of this paper, it is more intuitive to compare the two dimensions of user penetration, the region and the way of eating, rather than decompose them into sub-figures for comparison.
+  ***Readability is a golden rule when we make graphs***. If too many dimensions of data are added to a graph, it can easily overwhelm the working memory of a person and affect the reception of information. For example, in the first figure of this paper, it is more intuitive to compare the two dimensions of user penetration, the region and the way of eating, rather than decompose them into sub-figures for comparison.
 
 ### ```Reference```
 
