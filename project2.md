@@ -16,7 +16,7 @@ Id 4:  320180940581 Yuhao Zhang
 
 ##  Abstract
 
-​    *According to WWF, our discarded plastic waste is re entering the human body in the form of decomposed microplastics. With the development of takeout industry, more and more disposable tableware are used, of which as high as 88% are plastic tableware. This article analyzes the charts based on data from the environmental protection department of the Hong Kong government, China. Under the guidance of some visualization principles, we have completed the improvement of chart visualization effect. It is hoped that the promotion process can promote the communication and learning of information visualization, and call for reducing the use of disposable tableware.*
+​    *The growth of the food delivery industry has created a demand for disposable tableware, where discarded plastic tableware poses a major environmental hazard. We analyzed and improved the chart based on data from the Environmental protection department of the Hong Kong Government of China, under the guidance of the visualization principle.*
 
 ---
 
@@ -26,7 +26,9 @@ Id 4:  320180940581 Yuhao Zhang
 
 ---
 
-WWF research shows the average person consumes 2,000 tiny pieces of plastic a week. That's like eating a VISA card(5 grams) a week or eating a plastic hangers(21 grams) a month. We get a sense of the seriousness of the problem from an article in Chinadaily, and we improve the information visualization of the three pictures in this article. We aim to help people visually realize the importance of limiting the use of plastic tableware and reducing the amount of plastic discarded.
+Research by the World Wildlife Fund shows that the average person consumes 2,000 pieces of plastic a week. It's like eating a VISA card a week (5 grams) or a plastic hanger a month (21 grams).
+
+We chose three diagrams related to this issue as our project materials for information visualization. This article describes how we analyzed the visual patterns of these graphs according to the visualization principles and improved the visualization. On the one hand, this helps us deepen our understanding of the concept of visualization. On the other hand, these improvements help people visually recognize the importance of limiting the use of plastic tableware and reducing the amount of plastic thrown away.
 
 ---
 
@@ -87,7 +89,7 @@ So how does this happen?
 
    <img src="./picture/1.1.png" height="350" width="550">
 
-   (The above picture is what we replicated and blow one is what we improved.) 
+   (The above picture is what we replicated and below one is what we improved.) 
 
     * Good Point: This picture use line plot to visualize the information, so it not only show data intuitively, but also presents the trend.
     * Bad Point: Unfortunately, this picture gives relatively multi-dimensional comparison, and according to the cognitive theory, which may occupy the cognitive tunneling, making it difficult to understand.
@@ -105,10 +107,11 @@ So how does this happen?
 2. **<font color="Blue">  Plastic Waste at Landfills in HK</font>**
 
    <center class="half">
-    <img src="./picture/2.1.png" height="350" width="500">
+    <img src="./picture/2.1.png" height="250" width="45%">
        VS
-   	<img src="./picture/2.2.png" height="350" width="450">
+   	<img src="./picture/2.2.png" height="250" width="45%">
    </center>
+
 
    (The left picture is what we replicated and right one is what we improved.) 
 
@@ -129,21 +132,22 @@ So how does this happen?
 3. **<font color="orange"> HK MSW Reduction</font>**
 
    <center class="half">
-   	<img src="./picture/3.1.png" height="350" width="500">
+   	<img src="./picture/3.1.png" height="250" width="45%">
        VS
-   	<img src="./picture/3.2.png" height="350" width="500">
+   	<img src="./picture/3.2.png" height="250" width="45%">
    </center>
 
-   (The left picture is what we replicated and right one is what we improved.) 
-
+   
+(The left picture is what we replicated and right one is what we improved.) 
+   
     * Good Point: The picture use line chart to show the trend of data, and it can be known that the difference between two lines is becoming bigger and bigger.
    
     * Bad Point: But it is still not intuitive enough, because the picture want to show the difference instead of trend. Beside, the data is not complete， which raises doubts about comparability.
    
-    * Improvements: We can use area plot to re-show these data.
-
-      We ultimately made the following improvements:
-
+ * Improvements: We can use area plot to re-show these data.
+   
+   We ultimately made the following improvements:
+   
         * We have to throw away the data after 2018 because there is still no relevant data on the government official website.
         
         * Calculate the corresponding data points and show only the full year of the data.
