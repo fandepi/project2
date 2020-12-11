@@ -4,13 +4,13 @@
 
 student_id
 
-id 1:  
+Id 1:  320180939641 Zeyang Cui
 
-id 2: 320180939721 Fan Delin
+Id 2:  320180939721 Delin Fan
 
-id 3: 
+Id 3:  320180939951 Ziyuan Li
 
-id 4: 
+Id 4:  320180940581 Yuhao Zhang
 
 ---
 
@@ -20,11 +20,13 @@ id 4:
 
 ---
 
+
+
 ## 1. ```Introduction```
 
 ---
 
-​WWF research shows the average person consumes 2,000 tiny pieces of plastic a week. That's like eating a VISA card(5 grams) a week or eating a plastic hangers(21 grams) a month. We get a sense of the seriousness of the problem from an article in Chinadaily. And we improve the information visualization of the three pictures in this article. The aim is to help people visually realize the importance of limiting the use of plastic tableware and reducing the amount of plastic discarded.
+WWF research shows the average person consumes 2,000 tiny pieces of plastic a week. That's like eating a VISA card(5 grams) a week or eating a plastic hangers(21 grams) a month. We get a sense of the seriousness of the problem from an article in Chinadaily. And we improve the information visualization of the three pictures in this article. The aim is to help people visually realize the importance of limiting the use of plastic tableware and reducing the amount of plastic discarded.
 
 ---
 
@@ -47,13 +49,13 @@ So how does this happen?
   Based on the TAKEOUT WASTE PYRAMID DECOMPOSITION TIME diagram we can visually see the DECOMPOSITION TIME of take-out garbage.
   
   <figure>
-  	<img src="./picture/background2.jpg" height="250" width="400">
+  	<img src="./picture/background2.jpg">
       In particular, plastic waste accounts for 88 per cent of disposable tableware.
   </figure>
 
 The three images show that in Hong Kong, China, more people are opting for take-out or in-room meals, leading to a 30 percent increase in the number of plastic tableware discarded from landfills in four years, from 131 metric tons a day to 169 metric tons. Meanwhile, the increase in the amount of municipal solid waste (MSW) disposed of per capita in landfills makes Hong Kong's policy target of reducing waste per capita to 0.8 kg by 2020 unrealistic. Here is a brief analysis of the three pictures:
 
-1. <img src="./picture/1.png" width="300" align=left>    
+1. <img src="./picture/1.png" width="300" align=left>
   * Information: This chart uses lines to depict the trends in the popularity of take-out/in-room meals in different regions (Hong Kong/Singapore) over the years.
   * Visual patterns: point position in the figure.
   * Data type: X-axis is year, Y-axis is percentage (penetration rate).
@@ -65,7 +67,7 @@ The three images show that in Hong Kong, China, more people are opting for take-
   * Data type: categorical(year) and discrete(column height).
   * Meaning: The number of tableware landfills in Hong Kong has been increasing for several years.
 
-3. <img src="./picture/3.png" width="300" align=left>    
+3. <img src="./picture/3.png" width="300" align=left>
   * Information: This chart compares the Hong Kong government's expectations for the amount of solid waste dumped per person per day from 2011 to 2022.
   * Visual patterns: point position in the figure.
   * Data type: X-axis is year, Y-axis is the amount of solid waste discarded per capita on a daily basis(kg/person).
@@ -87,13 +89,13 @@ The three images show that in Hong Kong, China, more people are opting for take-
   * Good Point: This picture use line plot to visualize the information, so it not only show data intuitively, but also presents the trend.
   * Bad Point: Unfortunately, this picture gives relatively multi-dimensional comparison, and according to the cognitive theory, which may occupy the cognitive tunneling, making it difficult to understand.
   * Improvements: We divided the data into multiple graphs to reduce the dimension of data comparison at the same time, for example, small Multiple (Trellis chart/lattice chart) was used.
-  
+
    We ultimately made the following improvements:
 
    * A small multiples containing four subgraphs are used.
    * Adjust the range of the Y-axis to make the change in the data more obvious.
-   	<img src="./picture/1.2.png" height="350" width="1200">
-   	
+      	<img src="./picture/1.2.png" height="350" width="1200">
+
    	<font color="red">Improved</font>
 
    
