@@ -26,12 +26,20 @@ id 4:
 
 ​    We using four images to show that <font color="blue">**more people choose to point takeaway and eat out, which result in the increase of plastic waste that are already out of the expected average**</font>.  And we use three pictures as arguments.
 
-<center class="third">
-<center class="3">
-<img src="./1.png" height="300" width="350">
-<img src="./3.png" height="300" width="350">
-<img src="./4.png" height="300" width="350">
-</center>
+1. <img src="./1.png" width="300" align=left>    
+  * Good Point: This picture use line plot to visualize the information, so it not only show data intuitively, but also presents the trend.
+  * Bad Point: Unfortunately, this picture gives multi-dimensional comparison, and according to the cognitive theory, it is not good for humans'working memory.
+  * Improvements: We can separate the picture into other pictures and each picture only compare one thing different.
+
+2. <img src="./3.png" width="300" align=left>
+  * Good Point: Absolute magnitudes are important for bar plot and this picture start from 0 fitting this rule.
+  * Bad Point: However, this picture do not show enough about the relative magnitudes, which is the plot want to show.
+  * Improvements: We can use line plot, or use lumpy profile. Also add the max number on the top of the bar may be another good idea.
+
+3. <img src="./4.png" width="300" align=left>    
+  * Good Point: The picture use line chart to show the trend of data, and it can be known that the difference between two lines is becoming bigger and bigger.
+  * Bad Point: But it is still not intuitive enough, because the picture want to show the difference instead of trend. Beside, the data is not complete.
+  * Improvements: We can use area plot to re-show these data.
 
 
 But Those pictures get the following problems:
@@ -154,9 +162,7 @@ This part will show the background of the whole work
    
    * M2
 
-
-
-
+---
 
 ## 4. ```Reveal```
 
@@ -180,7 +186,4 @@ This part will show the background of the whole work
 
 ---
 
-
-
-
-
+We have make change selected graphs to let them show better for their original meaning that the author what to express. But we do not think those pictures can greatly explain why limiting single-use plastic waste use in eating takeaway is urgent for HK, this is because those data do not show damage plastic waste has caused to HK's environment, and we want to realize it with more data. We believe that this is the most direct way to show thrust.
