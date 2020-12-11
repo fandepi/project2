@@ -1,5 +1,5 @@
 The functions of the following files are as follows:
-   Project report: project2.md
+   Project report: project2.md, project2.pdf
    Source code: plot_chart.ipynb
    Pictures used in report: picture
    Datasets used in code: data_MSW.csv, data-AiteP.csv, data-DWh55.csv

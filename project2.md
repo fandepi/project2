@@ -107,43 +107,42 @@ So how does this happen?
 2. **<font color="Blue">  Plastic Waste at Landfills in HK</font>**
 
    <center class="half">
-    <img src="./picture/2.1.png" height="250" width="45%">
-       VS
-   	<img src="./picture/2.2.png" height="250" width="45%">
+    <img src="./picture/2.1.png" height="250" width="45%">VS<img src="./picture/2.2.png" height="250" width="45%">
    </center>
 
 
    (The left picture is what we replicated and right one is what we improved.) 
 
     * Good Point: Absolute magnitudes are important for bar plot and the baseline of this picture starts from 0 fitting this rule.
-
+    
     * Bad Point: As time series data, the selection of bar chart cannot directly reflect the change of trend.
-
+    
     * Improvements: We can use line plot, or use lumpy profile. Also add the max number on the top of the bar may be another good idea.
-
+    
       We ultimately made the following improvements:
-
+    
         * Since focus on visualizing patterns or on visualizing details, depending on the purpose of the plot (Few, 2004a; Kosslyn and Chabris, 1992), we use line plot to present the trend of quantity of plastic dishware waste.
-
+    
         * Show the trend by marking the maximum value.
 
-     
+
+​     
 
 3. **<font color="orange"> HK MSW Reduction</font>**
 
    <center class="half">
-   	<img src="./picture/3.1.png" height="250" width="45%">
-       VS
-   	<img src="./picture/3.2.png" height="250" width="45%">
+   	<img src="./picture/3.1.png" height="250" width="45%">VS<img src="./picture/3.2.png" height="250" width="45%">
    </center>
+   
+   
 
-   
+
 (The left picture is what we replicated and right one is what we improved.) 
-   
+
     * Good Point: The picture use line chart to show the trend of data, and it can be known that the difference between two lines is becoming bigger and bigger.
-   
+       
     * Bad Point: But it is still not intuitive enough, because the picture want to show the difference instead of trend. Beside, the data is not complete， which raises doubts about comparability.
-   
+
  * Improvements: We can use area plot to re-show these data.
    
    We ultimately made the following improvements:
