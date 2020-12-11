@@ -108,9 +108,9 @@ This part will show the background of the whole work
 
      And we improve those shortcomings with the following method:
 
-   * M1
+   * We use four chart and each picture only show one thing different. This is good for humans' working memory.
 
-   * M2
+   * Beside, we raise the bottom of y-axis to make the contrast more clear.
 
      
 
@@ -132,9 +132,9 @@ This part will show the background of the whole work
    
      And we improve those shortcomings with the following method:
    
-   * M1
+   * We use line plot to present the trend of quantity of plastic waste 
    
-   * M2
+   * To make sure the trend is more clear, we raise the minimum value of the y-axis.
    
      
    
@@ -158,9 +158,9 @@ This part will show the background of the whole work
    
      And we improve those shortcomings with the following method:
    
-   * M1
+   * We use area plot to present the increasing distance.
    
-   * M2
+   * Since we can not find the complete data through the official website, we have to throw away the data after 2018.
 
 ---
 
